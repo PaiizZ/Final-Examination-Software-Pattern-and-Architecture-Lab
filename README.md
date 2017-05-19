@@ -1,11 +1,11 @@
 # Final Exam - Design Patterns with Java Spring
-Implementing a Java program with Spring Framework by applying necessary design patterns, JDBC template and library, and other supporting tools. Adding or modifying any additional screen designs and necessary workflow as you see appropriated. 
+Implementing a Java program with Spring Framework by applying necessary design patterns, JDBC template and library, and other supporting tools. Adding or modifying any additional screen designs and necessary workflow as you see appropriated.
 
 by Wanchanapon Thanwaranurak 5710546607
 
 
 Install XAMPP (optional)
-Create a database name "pattern"  
+Create a database name "finalexam"  
 (If you want to use a different name, you need to go to AppConfig.java and change to
 dataSource.setUrl("jdbc:mysql://localhost:3306/finalexam?useUnicode=yes&characterEncoding=UTF-8"); )
 
